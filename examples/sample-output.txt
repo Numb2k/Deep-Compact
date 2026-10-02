@@ -1,0 +1,43 @@
+### id
+todo-api-29ab6c34
+
+### git
+Branch: main
+Last commit: c59bb040c493a4d27617e66aed60826dc2f6b343 Add todo CRUD endpoints
+Upstream: none (no remote tracking branch)
+Working tree (porcelain, first 200 lines):
+?? src/routes.ts
+
+### lock
+lock acquired
+
+### lock (second session)
+LOCKED: another deep-compact run is writing to this project (0s ago). Wait and retry.
+
+### install
+wrote ~/.claude/session-state/todo-api-29ab6c34/latest.md
+wrote ~/.claude/session-state/todo-api-29ab6c34/2026-10-02-1043-handoff.md
+
+### archive
+archive: moved 3 snapshot(s) to ~/.claude/session-state/todo-api-29ab6c34/archive/ (kept newest 10)
+
+### verify
+verify: OK (45 lines, 0 warning group(s))
+
+### unlock
+lock released
+
+### status
+deep-compact status - todo-api-29ab6c34
+Folder:   ~/.claude/session-state/todo-api-29ab6c34
+Handoffs: 10 active, 3 archived
+Size:      56K total
+latest.md: 45 lines (consolidation threshold 500)
+
+### verify after deleting a listed file
+WARN: path in Files & Code State not found: ~/code/todo-api/src/db.ts
+WARN: 1 listed path(s) missing in total (may be intentionally deleted)
+verify: OK (45 lines, 1 warning group(s))
+
+### git (no repo)
+Not a git repository - git state skipped.

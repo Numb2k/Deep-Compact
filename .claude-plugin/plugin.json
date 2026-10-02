@@ -1,0 +1,10 @@
+{
+  "name": "deep-compact",
+  "version": "1.0.0",
+  "description": "Writes an exhaustive, structured session handoff to disk (outside your project), verifies it, and gives you a ready /compact command.",
+  "author": {
+    "name": "Numb2k"
+  },
+  "license": "MIT",
+  "keywords": ["compact", "context", "handoff", "session", "memory"]
+}

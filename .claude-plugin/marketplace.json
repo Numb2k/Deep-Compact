@@ -1,0 +1,14 @@
+{
+  "name": "deep-compact",
+  "description": "Deep Compact: write your Claude Code session state to disk before you /compact.",
+  "owner": {
+    "name": "Numb2k"
+  },
+  "plugins": [
+    {
+      "name": "deep-compact",
+      "description": "Writes an exhaustive, structured session handoff to disk (outside your project), verifies it, and gives you a ready /compact command.",
+      "source": "./"
+    }
+  ]
+}
